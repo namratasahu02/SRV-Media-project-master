@@ -12,31 +12,31 @@ It's a weather forecast app with a pleasing visual design, it supports location 
  Users will see the minimum and maximum temperature of the day along with next four day data. 
   
 # How to Run this application? 
-npm start
-npm install react-scripts (for install librarie)
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser
+1. npm start
+2. npm install react-scripts (for install librarie).
+3. Runs the app in the development mode.
+4. Open http://localhost:3000 to view it in the browser
 
 # Libraries used
-axios
-react-scripts
+1. axios
+2. react-scripts
 
 # Built with (Tech Stack)
-Reactjs
-React Hooks
-Display API Data Using Axios with React
-API
-React | Font Awesome
-HTML
-CSS
-Bootstrap
-javascript
+Reactjs,
+React Hooks,
+Display API Data Using Axios with React,
+API,
+React | Font Awesome,
+HTML,
+CSS,
+Bootstrap,
+javascript,
 
 # APIs Used
-Open Weather APIs
-https://openweathermap.org/current
-API Info
-Method: GET
+Open Weather APIs,
+https://openweathermap.org/current,
+API Info:
+Method: GET,
 URL: https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}
 
 
